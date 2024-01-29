@@ -1,0 +1,4 @@
+/homework/week_1/data/
+/homework/week_1/.terraform/
+/homework/week_1/.terraform.lock.hcl
+/homework/week_1/terraform.tfstate
