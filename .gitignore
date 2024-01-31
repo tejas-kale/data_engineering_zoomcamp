@@ -2,3 +2,4 @@
 /homework/week_1/.terraform/
 /homework/week_1/.terraform.lock.hcl
 /homework/week_1/terraform.tfstate
+/homework/week_1/terraform.tfstate.backup
