@@ -3,3 +3,8 @@
 /homework/week_1/.terraform.lock.hcl
 /homework/week_1/terraform.tfstate
 /homework/week_1/terraform.tfstate.backup
+*.env
+*mage_data
+*magic-zoomcamp
+*personal-gcp.json
+*.csv
