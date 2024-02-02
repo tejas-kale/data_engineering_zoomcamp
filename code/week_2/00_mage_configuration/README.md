@@ -1,5 +1,7 @@
 **Note**: This README comes directly from the
-[mage-zoomcamp](https://github.com/mage-ai/mage-zoomcamp) repository.
+[mage-zoomcamp](https://github.com/mage-ai/mage-zoomcamp) repository. Copy the
+contents of the `dev.env` file from the `mage-zoomcamp` repository and put them
+in a `.env` file in this directory in order to build and run containers.
 
 <div>
 <img src="https://github.com/mage-ai/assets/blob/main/mascots/mascots-shorter.jpeg?raw=true">

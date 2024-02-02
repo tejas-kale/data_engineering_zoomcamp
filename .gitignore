@@ -1,10 +1,11 @@
 /homework/week_1/data/
-/homework/week_1/.terraform/
-/homework/week_1/.terraform.lock.hcl
-/homework/week_1/terraform.tfstate
-/homework/week_1/terraform.tfstate.backup
+*.terraform/
+*.terraform.lock.hcl
+*terraform.tfstate
+*terraform.tfstate.backup
 *.env
 *mage_data
 *magic-zoomcamp
 *personal-gcp.json
 *.csv
+*august-cirrus-399913-f3f3cf69d012.json
