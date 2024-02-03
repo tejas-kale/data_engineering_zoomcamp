@@ -1,4 +1,4 @@
-# Data Engineering Zoomcamp
+# Data Engineering Zoomcamp [WIP]
 
 This repository contains my work for the [Data Engineering
 Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) course.
