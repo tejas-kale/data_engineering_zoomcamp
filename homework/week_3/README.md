@@ -112,3 +112,5 @@
     *Answer*: False
     
 8. Write a `SELECT count(*)` query FROM the materialised table you created. How many bytes does it estimate will be read? Why?
+
+   *Answer*: The number of rows in a table is stored in the table metadata by BigQuery. Hence, the query select count(*) does not incur any cost and we see the message This query will process 0B when run. If we add a where clause to the query then BigQuery will need to scan the whole table or a segment of it (based on partitioning and clustering) and hence the query won’t be free.
