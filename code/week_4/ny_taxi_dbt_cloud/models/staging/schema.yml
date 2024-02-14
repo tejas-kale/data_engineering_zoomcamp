@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: staging
+    # A database in dbt is equivalent to a dataset in BigQuery.
+    database: august-cirrus-399913
+    # The sub-directory inside a BigQuery dataset that contains our tables.
+    schema: ny_taxi
+
+    tables:
+      # Names of the tables to be used as sources.
+      - name: green_taxi_dbt
+      - name: yellow_taxi_dbt
